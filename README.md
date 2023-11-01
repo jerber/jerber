@@ -1,6 +1,6 @@
 ## Jeremy Berman
 
-<!-- ![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jerber&count_private=true&show_icons=true&theme=radical) -->
+![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jerber&count_private=true&show_icons=true&theme=radical)
 
 
 
